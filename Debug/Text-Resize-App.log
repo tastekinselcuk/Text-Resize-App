@@ -1,0 +1,10 @@
+﻿  Text-Resize-App.cpp
+C:\Users\taste\Desktop\repos\C++ Uygulamaları\Text-Resize-App\Text-Resize-App\Text-Resize-App.cpp(42,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\taste\Desktop\repos\C++ Uygulamaları\Text-Resize-App\Text-Resize-App\Text-Resize-App.cpp(52,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\taste\Desktop\repos\C++ Uygulamaları\Text-Resize-App\Text-Resize-App\Text-Resize-App.cpp(63,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\taste\Desktop\repos\C++ Uygulamaları\Text-Resize-App\Text-Resize-App\Text-Resize-App.cpp(75,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\taste\Desktop\repos\C++ Uygulamaları\Text-Resize-App\Text-Resize-App\Text-Resize-App.cpp(83,10): warning C4101: 'a': unreferenced local variable
+C:\Users\taste\Desktop\repos\C++ Uygulamaları\Text-Resize-App\Text-Resize-App\Text-Resize-App.cpp(88,10): warning C4101: 'dizi1': unreferenced local variable
+C:\Users\taste\Desktop\repos\C++ Uygulamaları\Text-Resize-App\Text-Resize-App\Text-Resize-App.cpp(83,13): warning C4101: 'b': unreferenced local variable
+C:\Users\taste\Desktop\repos\C++ Uygulamaları\Text-Resize-App\Text-Resize-App\Text-Resize-App.cpp(89,10): warning C4101: 'dizi2': unreferenced local variable
+  Text-Resize-App.vcxproj -> C:\Users\taste\Desktop\repos\C++ Uygulamaları\Text-Resize-App\Debug\Text-Resize-App.exe
